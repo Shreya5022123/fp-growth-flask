@@ -1,7 +1,7 @@
 🔍 FP-Growth Association Rule Miner (Flask Web App)
 
 A modern, elegant Flask-based web application that allows users to upload CSV or Excel files containing transactional data, apply the FP-Growth algorithm, and generate insightful association rules with customizable thresholds.
-<img src="screenshot.png" alt="Preview" width="700"/>
+
 ✨ Features
 
 - 📂 Upload CSV or Excel datasets

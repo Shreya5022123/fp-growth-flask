@@ -2,7 +2,7 @@
 
 A modern, elegant Flask-based web application that allows users to upload CSV or Excel files containing transactional data, apply the FP-Growth algorithm, and generate insightful association rules with customizable thresholds.
 
-** Features**
+ Features
 
 -  Upload CSV or Excel datasets
 -  Auto-preview first 5 transactions

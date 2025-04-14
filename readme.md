@@ -34,6 +34,6 @@ python app.py
 **Output screenshots**
 
 ![Screenshot 2025-04-12 000505](https://github.com/user-attachments/assets/879233ad-053d-4bef-ba2e-cfdb8fde590b)
-![Screenshot 2025-04-12 000537](https://github.com/user-attachments/assets/93198462-f615-491d-8de4-06cba07f7924)
+![Screenshot 2025-04-12 000537](https://github.com/user-attachments/assets/237e8008-098c-4bdf-ac3b-5b1669b611e9)
 ![Screenshot 2025-04-12 000549](https://github.com/user-attachments/assets/88613b92-9b14-4092-89ac-686a04d2898e)
 ![Screenshot 2025-04-12 000621](https://github.com/user-attachments/assets/3156d52e-2426-4734-89e7-5da8613ec484)

@@ -2,26 +2,26 @@
 
 A modern, elegant Flask-based web application that allows users to upload CSV or Excel files containing transactional data, apply the FP-Growth algorithm, and generate insightful association rules with customizable thresholds.
 
-**✨ Features**
+** Features**
 
-- 📂 Upload CSV or Excel datasets
-- ⚡ Auto-preview first 5 transactions
-- 🧠 Run FP-Growth for mining frequent itemsets
-- 🎯 Adjust min support and confidence
-- 📊 View association rules sorted by lift
-- 💅 Clean, modern user interface with custom design
+-  Upload CSV or Excel datasets
+-  Auto-preview first 5 transactions
+-  Run FP-Growth for mining frequent itemsets
+-  Adjust min support and confidence
+-  View association rules sorted by lift
+-  Clean, modern user interface with custom design
 
-🚀 Getting Started
 
-** ✅ Requirements
-**
+
+Requirements
+
 - Python 3.8 or later
 - Flask
 - Pandas
 - mlxtend
 - openpyxl (for Excel support)
 
- 🧩 Installation
+  Installation
 
 Install required packages using:
 

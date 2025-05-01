@@ -22,18 +22,20 @@ Requirements
 - openpyxl (for Excel support)
 
 **Project setup**
-run this command on terminal :
 
-Installation
+1) Run this command on terminal :
 
-**Install required packages using:**
+     git clone https://github.com/Shreya5022123/fp-growth-flask.git
 
-**cmd**
-pip install flask pandas mlxtend openpyxl
+2) Install required packages using:
 
-**To run:** 
-Go to terminal and run 
-python app.py
+     **cmd:**
+
+     pip install flask pandas mlxtend openpyxl
+
+3) Go to terminal and run  
+
+     python app.py
 
 **Output screenshots**
 

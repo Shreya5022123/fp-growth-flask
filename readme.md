@@ -21,14 +21,18 @@ Requirements
 - mlxtend
 - openpyxl (for Excel support)
 
-  Installation
+**Project setup**
+run this command on terminal :
 
-Install required packages using:
+Installation
 
-**bash**
+**Install required packages using:**
+
+**cmd**
 pip install flask pandas mlxtend openpyxl
 
-**To run**:Go to terminal
+**To run:** 
+Go to terminal and run 
 python app.py
 
 **Output screenshots**
